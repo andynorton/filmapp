@@ -162,6 +162,7 @@
     <Content Include="Content\themes\base\jquery.ui.theme.css" />
     <Content Include="packages.config" />
     <Content Include="Views\Home\SendRequest.vbhtml" />
+    <Content Include="Views\Home\getMovie.vbhtml" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Global.asax" />
